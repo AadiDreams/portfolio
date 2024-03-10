@@ -8,6 +8,7 @@ body {
 }
 nav {
     display: flex;
+    align-items: center;
 }
 nav a{
     text-decoration: none;
