@@ -1,4 +1,4 @@
 # portfolio
 Portfolio Website
 <br>
-HTML | CSS
+HTML | CSS | JS
