@@ -1,4 +1,4 @@
 # portfolio
 Portfolio Website
 <br>
-HTML | CSS | JS
+Tech Stack: HTML | CSS | JS
